@@ -1,0 +1,6 @@
+@netcore_sample_repository_pattern_HostAddress = http://localhost:5155
+
+GET {{netcore_sample_repository_pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
